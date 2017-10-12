@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fda40679-a6e0-4642-a86b-0ce59b8ba8b8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/modules/pricefalls/views/pricefalls/index-new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/modules/pricefalls/views/pricefalls/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/modules/pricefalls/views/site/index.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/js/locales/&lt;lang&gt;.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/modules/jet/assets/images/guide/setup.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/modules/jet/assets/images/logo.png_" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/models/User.php" afterPath="$PROJECT_DIR$/common/models/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/Application.php" afterPath="$PROJECT_DIR$/frontend/Application.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/config/main.php" afterPath="$PROJECT_DIR$/frontend/config/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/Jet.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/Jet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/components/Dashboard/Productinfo.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/components/Dashboard/Productinfo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/components/Data.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/components/Data.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/components/Installation.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/components/Installation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/components/Jetcategorytree.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/components/Jetcategorytree.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/components/Jetproductinfo.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/components/Jetproductinfo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/controllers/CategorymapController.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/controllers/CategorymapController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/controllers/JetapistatusController.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/controllers/JetapistatusController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/controllers/JetinvsyncController.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/controllers/JetinvsyncController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/controllers/JetmainController.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/controllers/JetmainController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/controllers/JetproductController.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/controllers/JetproductController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/controllers/JetproductimportController.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/controllers/JetproductimportController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/controllers/JetscriptController.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/controllers/JetscriptController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/controllers/SiteController.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/controllers/SiteController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/views/errorHandler/errorNexception.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/views/errorHandler/errorNexception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/views/jet-install/import-products.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/views/jet-install/import-products.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/views/jet-install/live-api.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/views/jet-install/live-api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/views/jetproduct/category_tab2.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/views/jetproduct/category_tab2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/views/jetproduct/varients1.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/views/jetproduct/varients1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/views/jetreturn/_form.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/views/jetreturn/_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/views/layouts/main.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/views/layouts/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/views/site/index-new.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/views/site/index-new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/jet/views/site/index.php" afterPath="$PROJECT_DIR$/frontend/modules/jet/views/site/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="JetproductController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/JetproductController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="68" column="117" lean-forward="false" selection-start-line="68" selection-start-column="95" selection-end-line="68" selection-end-column="117" />
+              <folding>
+                <marker date="1507198536145" expanded="true" signature="1570:1649" ph="SELECT `prod... jet_product_tmp" />
+                <marker date="1507198536145" expanded="true" signature="1972:2080" ph="SELECT `valu... jet_config" />
+                <marker date="1507198536145" expanded="true" signature="2466:2568" ph="SELECT `id` jet_product" />
+                <marker date="1507198536145" expanded="true" signature="4308:4392" ph="SELECT `id`,... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="4815:4905" ph="SELECT `id`,... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="5445:5542" ph="SELECT `valu... jet_config" />
+                <marker date="1507198536145" expanded="true" signature="6724:6821" ph="SELECT `valu... jet_config" />
+                <marker date="1507198536145" expanded="true" signature="8243:8340" ph="SELECT `valu... jet_config" />
+                <marker date="1507198536145" expanded="true" signature="9961:10137" ph="SELECT pro.q... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="12277:12611" ph="SELECT COALE... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="15181:15675" ph="SELECT `jet_... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="19299:19573" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="19391:19531" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="19747:20091" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="19876:20051" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="20296:20660" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="20466:20618" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="20834:21284" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="21067:21242" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="21458:21793" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="21576:21751" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="21975:22339" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="22120:22299" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="22517:22898" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="22681:22858" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="23172:23349" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="23591:23932" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="23713:23890" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="24175:24246" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="31576:31656" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="32433:32751" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="32540:32713" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="33440:33511" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="38816:39181" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="38971:39143" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="39313:39392" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="39899:40256" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="40050:40218" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="40376:40451" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="41010:41346" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="41159:41308" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="41454:41527" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="42212:42292" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="42831:43171" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="42938:43129" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="44644:44748" ph="SELECT `sku`... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="44815:44926" ph="SELECT `opti... jet_product_variants" />
+                <marker date="1507198536145" expanded="true" signature="49054:49134" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="49847:50149" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="49950:50115" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="50786:50857" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="53651:53732" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="54427:54564" ph="SELECT `opti... jet_product_variants" />
+                <marker date="1507198536145" expanded="true" signature="56315:56396" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="59893:59956" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="60513:60625" ph="SELECT `opti... jet_product_variants" />
+                <marker date="1507198536145" expanded="true" signature="61954:62017" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="67680:67818" ph="UPDATE jet_p... " />
+                <marker date="1507198536145" expanded="true" signature="68092:68246" ph="UPDATE jet_p... " />
+                <marker date="1507198536145" expanded="true" signature="69014:69094" ph="SELECT COUNT... jet_product_tmp" />
+                <marker date="1507198536145" expanded="true" signature="71592:71700" ph="SELECT `prod... jet_product_tmp" />
+                <marker date="1507198536145" expanded="true" signature="72103:72305" ph="SELECT id,ti... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="73332:73398" ph="DELETE FROM " />
+                <marker date="1507198536145" expanded="true" signature="78031:78091" ph="SELECT image... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="82163:82320" ph="SELECT `upda... jet_product_details" />
+                <marker date="1507198536145" expanded="true" signature="83631:83752" ph="SELECT `titl... jet_category" />
+                <marker date="1507198536145" expanded="true" signature="84372:84469" ph="SELECT `titl... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="85803:86021" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="94027:95046" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="96254:96333" ph="SELECT `opti... jet_product_variants" />
+                <marker date="1507198536145" expanded="true" signature="96429:97073" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="97710:97829" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="105577:105683" ph="SELECT `opti... jet_product_variants" />
+                <marker date="1507198536145" expanded="true" signature="106014:106299" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="106383:106633" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="106818:106960" ph="SELECT `id`,... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="108559:108622" ph="SELECT `id`,... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="108923:109140" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="109237:109427" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="109577:109711" ph="SELECT `id`,... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="112173:112270" ph="SELECT produ... jet_product_variants" />
+                <marker date="1507198536145" expanded="true" signature="114355:114438" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="115771:115976" ph="select confi... jet_configuration" />
+                <marker date="1507198536145" expanded="true" signature="116249:117808" ph="..." />
+                <marker date="1507198536145" expanded="true" signature="116516:117791" ph="{...}" />
+                <marker date="1507198536145" expanded="true" signature="116578:116637" ph="{...}" />
+                <marker date="1507198536145" expanded="true" signature="116956:117466" ph="{...}" />
+                <marker date="1507198536145" expanded="true" signature="117031:117340" ph="{...}" />
+                <marker date="1507198536145" expanded="true" signature="117076:117153" ph="{...}" />
+                <marker date="1507198536145" expanded="true" signature="117222:117326" ph="{...}" />
+                <marker date="1507198536145" expanded="true" signature="117370:117454" ph="{...}" />
+                <marker date="1507198536145" expanded="true" signature="117935:118085" ph="select jet_p... jet_product" />
+                <marker date="1507198536145" expanded="true" signature="119552:119754" ph="SELECT id,sk... jet_shipping_exception" />
+                <marker date="1507198536145" expanded="true" signature="126916:127032" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="127171:127351" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="127577:127688" ph="SELECT `id` jet_product_details" />
+                <marker date="1507198536145" expanded="true" signature="127780:127923" ph="UPDATE `jet_... " />
+                <marker date="1507198536145" expanded="true" signature="128096:128191" ph="SELECT `id` jet_product" />
+                <marker date="1507198536145" expanded="true" signature="128299:128447" ph="INSERT INTO `jet_product_details`... " />
+                <marker date="1507198536145" expanded="true" signature="128663:128858" ph="UPDATE `jet_... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JetreportController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/JetreportController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1367">
+              <caret line="36" column="60" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="60" />
+              <folding>
+                <marker date="1501486665000" expanded="true" signature="1204:1382" ph="SELECT `merc... jet_order_detail" />
+                <marker date="1501486665000" expanded="true" signature="4863:5012" ph="SELECT `sku`... products_listed_on_jet" />
+                <marker date="1501486665000" expanded="true" signature="6811:6917" ph="SELECT `sku`... products_listed_on_jet" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/modules/jet/views/jetproduct/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1539">
+              <caret line="520" column="5" lean-forward="true" selection-start-line="520" selection-start-column="5" selection-end-line="520" selection-end-column="5" />
+              <folding>
+                <marker date="1507182925669" expanded="true" signature="10180:10195" ph="..." />
+                <marker date="1507182925669" expanded="true" signature="20741:20757" ph="..." />
+                <marker date="1507182925669" expanded="true" signature="39660:39673" ph="..." />
+                <marker date="1507182925669" expanded="true" signature="39808:39821" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/config/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main-local.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/common/config/main-local.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JetmainController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/JetmainController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="54" column="72" lean-forward="false" selection-start-line="54" selection-start-column="72" selection-end-line="54" selection-end-column="72" />
+              <folding>
+                <marker date="1507197799085" expanded="true" signature="1567:1709" ph="SELECT `full... jet_configuration" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductsListedOnJet.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/modules/jet/models/ProductsListedOnJet.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dynamicpricing.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/modules/jet/views/jetproduct/dynamicpricing.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>category</find>
+      <find>kdjch</find>
+      <find>$attr_id</find>
+      <find>'db'</find>
+      <find>$model</find>
+      <find>getU</find>
+      <find>checkInstalledApp</find>
+      <find>getJet</find>
+      <find>S</find>
+      <find>Su</find>
+      <find>Sub</find>
+      <find>form</find>
+      <find>SubU</find>
+      <find>d</find>
+      <find>de</find>
+      <find>def</find>
+      <find>defi</find>
+      <find>define</find>
+      <find>define(</find>
+      <find>define('</find>
+      <find>define('M</find>
+      <find>define('ME</find>
+      <find>define('MER</find>
+      <find>define('MERC</find>
+      <find>define('MERCH</find>
+      <find>define('MERCHA</find>
+      <find>define('MERCHAN</find>
+      <find>define('MERCHANT</find>
+      <find>endF</find>
+      <find>Getjet</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/frontend/modules/jet/views/layouts/main.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/Jet.php" />
+        <option value="$PROJECT_DIR$/vendor/yiisoft/yii2/helpers/BaseHtml.php" />
+        <option value="$PROJECT_DIR$/vendor/yiisoft/yii2/web/View.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/views/site/index-new.php" />
+        <option value="$PROJECT_DIR$/common/models/User.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/components/Installation.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/controllers/JetproductimportController.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/components/Jetproductinfo.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/controllers/JetinvsyncController.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/controllers/JetscriptController.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/views/jetproduct/category_tab2.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/controllers/JetmainController.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/controllers/JetproductController.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/views/jetproduct/varients1.php" />
+        <option value="$PROJECT_DIR$/common/config/bootstrap.php" />
+        <option value="$PROJECT_DIR$/frontend/components/Webhook.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/pricefall/Pricefall.php" />
+        <option value="$PROJECT_DIR$/common/config/main-local.php" />
+        <option value="$PROJECT_DIR$/frontend/Application.php" />
+        <option value="$PROJECT_DIR$/frontend/ApplicationPricefalls.php" />
+        <option value="$PROJECT_DIR$/vendor/yiisoft/yii2/base/Application.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/frontend/config/main.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/pricefalls/views/site/index.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/pricefalls/views/pricefalls/index.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/pricefalls/views/pricefalls/index-new.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/pricefalls/controllers/PricefallsController.php" />
+        <option value="$PROJECT_DIR$/console/migrations/m130524_201442_init.php" />
+        <option value="$PROJECT_DIR$/../NewYii/yii-application/console/migrations/m171009_073633_pricefalls_faq.php" />
+        <option value="$PROJECT_DIR$/../NewYii/yii-application/console/migrations/m171009_093229_products.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/views/site/index.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/components/Data.php" />
+        <option value="$PROJECT_DIR$/../NewYii/yii-application/frontend/ApplicationPricefalls.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/components/Dashboard/Productinfo.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/components/Dashboard/OrderInfo.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/jet/views/jetproduct/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-3" />
+    <option name="width" value="1371" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace-integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace-integration" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace-integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace-integration" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace-integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace-integration" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace-integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace-integration" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace-integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marketplace-integration" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NewYii" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fda40679-a6e0-4642-a86b-0ce59b8ba8b8" name="Default" comment="" />
+      <created>1507097881678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507097881678</updated>
+      <workItem from="1507097882819" duration="23798000" />
+      <workItem from="1507176464891" duration="19406000" />
+      <workItem from="1507269248807" duration="36000" />
+      <workItem from="1507272786573" duration="13560000" />
+      <workItem from="1507353752584" duration="2507000" />
+      <workItem from="1507521499933" duration="10742000" />
+      <workItem from="1507607313892" duration="22116000" />
+      <workItem from="1507694078949" duration="24631000" />
+      <workItem from="1507779712347" duration="19049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="135899000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="0" width="1371" height="734" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18241759" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/frontend/modules/jet/controllers/SiteController.php</url>
+          <line>3</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jetapi/controllers/JetapiController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="33" column="35" lean-forward="false" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/console/migrations/m130524_201442_init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/models/JetActiveMerchants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/models/JetAttributeMap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/views/site/index-new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="89" column="18" lean-forward="false" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/JetConfigController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding>
+            <marker date="1503473353000" expanded="true" signature="721:856" ph="SELECT user,... jet_test_api" />
+            <marker date="1503473353000" expanded="true" signature="1314:1438" ph="SELECT id FR... jet_test_api" />
+            <marker date="1503473353000" expanded="true" signature="3829:3916" ph="SELECT api_u... jet_configuration" />
+            <marker date="1503473353000" expanded="true" signature="3983:4085" ph="SELECT user,... jet_test_api" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/JetInstallController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1504094363000" expanded="true" signature="3512:3531" ph="SELECT id FR... user" />
+            <marker date="1504094363000" expanded="true" signature="3793:3873" ph="SELECT `id` jet_installation" />
+            <marker date="1504094363000" expanded="true" signature="4321:4365" ph="..." />
+            <marker date="1504094363000" expanded="true" signature="4432:4458" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/JetapiController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2475">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496642785000" expanded="true" signature="4287:4370" ph="SELECT * FRO... jet_config" />
+            <marker date="1496642785000" expanded="true" signature="4471:4575" ph="INSERT INTO `jet_config`... " />
+            <marker date="1496642785000" expanded="true" signature="5495:5580" ph="SELECT * FRO... jet_config" />
+            <marker date="1496642785000" expanded="true" signature="5695:5801" ph="INSERT INTO `jet_config`... " />
+            <marker date="1496642785000" expanded="true" signature="6797:6886" ph="SELECT * FRO... jet_config" />
+            <marker date="1496642785000" expanded="true" signature="7005:7115" ph="INSERT INTO `jet_config`... " />
+            <marker date="1496642785000" expanded="true" signature="9611:9696" ph="SELECT * FRO... jet_config" />
+            <marker date="1496642785000" expanded="true" signature="9870:9980" ph="INSERT INTO `jet_config`... " />
+            <marker date="1496642785000" expanded="true" signature="10547:10632" ph="SELECT * FRO... jet_config" />
+            <marker date="1496642785000" expanded="true" signature="13906:13993" ph="SELECT * FRO... jet_config" />
+            <marker date="1496642785000" expanded="true" signature="14119:14227" ph="INSERT INTO `jet_config`... " />
+            <marker date="1496642785000" expanded="true" signature="17707:17798" ph="SELECT * FRO... jet_config" />
+            <marker date="1496642785000" expanded="true" signature="17926:18038" ph="INSERT INTO `jet_config`... " />
+            <marker date="1496642785000" expanded="true" signature="21305:21391" ph="SELECT * FRO... jet_config" />
+            <marker date="1496642785000" expanded="true" signature="21503:21610" ph="INSERT INTO `jet_config`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="152" column="0" lean-forward="false" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding>
+            <element signature="e#51#79#0#PHP" expanded="true" />
+            <marker date="1507612669307" expanded="true" signature="12699:12777" ph="SELECT `id`,... referrer_user" />
+            <marker date="1507612669307" expanded="true" signature="12926:13023" ph="SELECT `id` referral_user" />
+            <marker date="1507612669307" expanded="true" signature="13358:13503" ph="INSERT INTO `referral_user`... " />
+            <marker date="1507612669307" expanded="true" signature="13712:13800" ph="SELECT * FRO... jet_config" />
+            <marker date="1507612669307" expanded="true" signature="13927:13961" ph="SELECT * FRO... jet_email_template" />
+            <marker date="1507612669307" expanded="true" signature="17084:17165" ph="SELECT insta... jet_shop_details" />
+            <marker date="1507612669307" expanded="true" signature="20129:20295" ph="SELECT `amou... coupan_code" />
+            <marker date="1507612669307" expanded="true" signature="23863:23950" ph="SELECT `id` jet_recurring_payment" />
+            <marker date="1507612669307" expanded="true" signature="24376:24775" ph="INSERT INTO `jet_recurring_payment`... " />
+            <marker date="1507612669307" expanded="true" signature="25085:25248" ph="UPDATE jet_s... " />
+            <marker date="1507612669307" expanded="true" signature="25879:26232" ph="UPDATE `jet_... " />
+            <marker date="1507612669307" expanded="true" signature="26521:26684" ph="UPDATE jet_s... " />
+            <marker date="1507612669307" expanded="true" signature="27257:27419" ph="INSERT INTO `applied_coupan_code`... " />
+            <marker date="1507612669307" expanded="true" signature="31056:31176" ph="select `id` jet_recurring_payment" />
+            <marker date="1507612669307" expanded="true" signature="31359:31727" ph="insert into `jet_recurring_payment`... " />
+            <marker date="1507612669307" expanded="true" signature="32049:32227" ph="UPDATE jet_s... " />
+            <marker date="1507612669307" expanded="true" signature="32722:33040" ph="UPDATE `jet_... " />
+            <marker date="1507612669307" expanded="true" signature="33339:33517" ph="UPDATE jet_s... " />
+            <marker date="1507612669307" expanded="true" signature="34993:35122" ph="SELECT `id` jet_recurring_payment" />
+            <marker date="1507612669307" expanded="true" signature="35547:35888" ph="insert into `jet_recurring_payment`... " />
+            <marker date="1507612669307" expanded="true" signature="36169:36332" ph="UPDATE jet_s... " />
+            <marker date="1507612669307" expanded="true" signature="36963:37254" ph="UPDATE `jet_... " />
+            <marker date="1507612669307" expanded="true" signature="37538:37701" ph="UPDATE jet_s... " />
+            <marker date="1507612669307" expanded="true" signature="39241:39367" ph="select `id` jet_recurring_payment" />
+            <marker date="1507612669307" expanded="true" signature="39735:40081" ph="insert into `jet_recurring_payment`... " />
+            <marker date="1507612669307" expanded="true" signature="40364:40528" ph="UPDATE jet_s... " />
+            <marker date="1507612669307" expanded="true" signature="41159:41450" ph="UPDATE `jet_... " />
+            <marker date="1507612669307" expanded="true" signature="41736:41899" ph="UPDATE jet_s... " />
+            <marker date="1507612669307" expanded="true" signature="42771:42915" ph="SELECT `id`,... referral_user" />
+            <marker date="1507612669307" expanded="true" signature="43119:43209" ph="UPDATE `refe... " />
+            <marker date="1507612669307" expanded="true" signature="43542:43806" ph="INSERT INTO `referrer_payment`... " />
+            <marker date="1507612669307" expanded="true" signature="49030:49083" ph="select email... jet_shop_details" />
+            <marker date="1507612669307" expanded="true" signature="49154:49293" ph="SELECT * FRO... call_schedule" />
+            <marker date="1507612669307" expanded="true" signature="49448:49652" ph="UPDATE `call... " />
+            <marker date="1507612669307" expanded="true" signature="49739:50107" ph="INSERT INTO `call_schedule`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NewYii/yii-application/frontend/ApplicationPricefalls.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="47" column="71" lean-forward="false" selection-start-line="47" selection-start-column="71" selection-end-line="47" selection-end-column="71" />
+          <folding>
+            <marker date="1507812816847" expanded="true" signature="2490:2547" ph="SELECT db_na... merchant_db" />
+            <marker date="1507812816847" expanded="true" signature="2748:2805" ph="SELECT db_na... merchant_db" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/models/JetSalesData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="110" column="9" lean-forward="false" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/components/Dashboard/Stockinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="35" column="299" lean-forward="false" selection-start-line="35" selection-start-column="245" selection-end-line="35" selection-end-column="299" />
+          <folding>
+            <marker date="1496240540000" expanded="true" signature="515:609" ph="SELECT `valu... jet_config" />
+            <marker date="1496240540000" expanded="true" signature="877:1156" ph="SELECT COALE... jet_product" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/models/JetCategory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="62" column="5" lean-forward="false" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/components/Dashboard/OrderInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="104" lean-forward="false" selection-start-line="20" selection-start-column="104" selection-end-line="20" selection-end-column="104" />
+          <folding>
+            <marker date="1506066202000" expanded="true" signature="467:569" ph="SELECT COUNT... jet_order_detail" />
+            <marker date="1506066202000" expanded="true" signature="1052:1158" ph="SELECT COUNT... jet_order_detail" />
+            <marker date="1506066202000" expanded="true" signature="1609:1713" ph="SELECT COUNT... jet_order_detail" />
+            <marker date="1506066202000" expanded="true" signature="2707:2768" ph="SELECT COUNT... jet_order_detail" />
+            <marker date="1506066202000" expanded="true" signature="3237:3304" ph="SELECT COUNT... jet_order_import_error" />
+            <marker date="1506066202000" expanded="true" signature="3755:3850" ph="SELECT `merc... jet_order_import_error" />
+            <marker date="1506066202000" expanded="true" signature="4146:4305" ph="SELECT `merc... jet_order_detail" />
+            <marker date="1506066202000" expanded="true" signature="4554:4697" ph="DELETE FROM " />
+            <marker date="1506066202000" expanded="true" signature="5165:5340" ph="SELECT `id`,... jet_order_detail" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/helpers/Url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/components/Dashboard/Productinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-661">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="e#61#102#0#PHP" expanded="false" />
+            <marker date="1507694241364" expanded="true" signature="878:971" ph="SELECT count... jet_product_variants" />
+            <marker date="1507694241364" expanded="true" signature="1187:1424" ph="SELECT COUNT... " />
+            <marker date="1507694241364" expanded="true" signature="1942:2277" ph="SELECT COUNT... " />
+            <marker date="1507694241364" expanded="true" signature="2805:3156" ph="SELECT COUNT... " />
+            <marker date="1507694241364" expanded="true" signature="3682:4025" ph="SELECT COUNT... " />
+            <marker date="1507694241364" expanded="true" signature="4546:4889" ph="SELECT COUNT... " />
+            <marker date="1507694241364" expanded="true" signature="5422:5773" ph="SELECT COUNT... " />
+            <marker date="1507694241364" expanded="true" signature="6313:6664" ph="SELECT COUNT... " />
+            <marker date="1507694241364" expanded="true" signature="7209:7560" ph="SELECT COUNT... " />
+            <marker date="1507694241364" expanded="true" signature="8089:8245" ph="SELECT COUNT... jet_product_details" />
+            <marker date="1507694241364" expanded="true" signature="8568:8638" ph="SELECT COUNT... jet_product_tmp" />
+            <marker date="1507694241364" expanded="true" signature="8906:8970" ph="SELECT `prod... jet_product_tmp" />
+            <marker date="1507694241364" expanded="true" signature="9499:9613" ph="SELECT count... sears_category_map" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="1087" column="9" lean-forward="false" selection-start-line="1087" selection-start-column="9" selection-end-line="1087" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/assets/AppAsset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="38" column="54" lean-forward="true" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/components/Upgradeplan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="30" column="97" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="97" />
+          <folding>
+            <marker date="1504940688000" expanded="true" signature="339:448" ph="SELECT `orde... jet_order_detail" />
+            <marker date="1504940688000" expanded="true" signature="1131:1306" ph="SELECT `expi... jet_shop_details" />
+            <marker date="1504940688000" expanded="true" signature="2914:2927" ph="..." />
+            <marker date="1504940688000" expanded="true" signature="3083:3094" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/components/Dashboard/Earninginfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="79" column="34" lean-forward="false" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
+          <folding>
+            <marker date="1505388150000" expanded="true" signature="621:762" ph="SELECT `orde... jet_order_detail" />
+            <marker date="1505388150000" expanded="true" signature="1712:1853" ph="SELECT `orde... jet_order_detail" />
+            <marker date="1505388150000" expanded="true" signature="2781:2922" ph="SELECT `orde... jet_order_detail" />
+            <marker date="1505388150000" expanded="true" signature="3902:4088" ph="SELECT `orde... jet_order_detail" />
+            <marker date="1505388150000" expanded="true" signature="4888:4978" ph="SELECT `orde... jet_order_detail" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/views/latest-updates/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="44" column="63" lean-forward="true" selection-start-line="44" selection-start-column="63" selection-end-line="44" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/LatestUpdates.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/LatestUpdatesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/components/Dashboard/LatestUpdates.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="78" column="5" lean-forward="true" selection-start-line="72" selection-start-column="3" selection-end-line="78" selection-end-column="5" />
+          <folding>
+            <marker date="1494401852000" expanded="true" signature="336:456" ph="SELECT * FRO... latest_updates" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/components/Data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9570">
+          <caret line="640" column="5" lean-forward="false" selection-start-line="640" selection-start-column="5" selection-end-line="640" selection-end-column="5" />
+          <folding>
+            <marker date="1507622180771" expanded="true" signature="1676:1779" ph="SELECT `toke... walmart_shop_details" />
+            <marker date="1507622180771" expanded="true" signature="2073:2185" ph="SELECT `data... walmart_config" />
+            <marker date="1507622180771" expanded="true" signature="2289:2412" ph="INSERT INTO `walmart_config`... " />
+            <marker date="1507622180771" expanded="true" signature="2497:2619" ph="UPDATE `walm... " />
+            <marker date="1507622180771" expanded="true" signature="2766:2874" ph="SELECT `data... jet_config" />
+            <marker date="1507622180771" expanded="true" signature="2975:3094" ph="INSERT INTO `jet_config`... " />
+            <marker date="1507622180771" expanded="true" signature="3211:3329" ph="UPDATE `jet_... " />
+            <marker date="1507622180771" expanded="true" signature="3497:3585" ph="DELETE FROM " />
+            <marker date="1507622180771" expanded="true" signature="3759:3840" ph="select id,pr... jet_product" />
+            <marker date="1507622180771" expanded="true" signature="4023:4111" ph="INSERT INTO `walmart_product`... " />
+            <marker date="1507622180771" expanded="true" signature="4141:4226" ph="INSERT INTO `walmart_product_variants`... " />
+            <marker date="1507622180771" expanded="true" signature="4513:4591" ph="select optio... jet_product_variants" />
+            <marker date="1507622180771" expanded="true" signature="5328:5402" ph="select id fr... walmart_category_map" />
+            <marker date="1507622180771" expanded="true" signature="5588:5668" ph="select produ... jet_category_map" />
+            <marker date="1507622180771" expanded="true" signature="5884:5955" ph="INSERT INTO `walmart_category_map`... " />
+            <marker date="1507622180771" expanded="true" signature="7014:7144" ph="SELECT `tax_... walmart_category_map" />
+            <marker date="1507622180771" expanded="true" signature="7363:7468" ph="SELECT `valu... walmart_config" />
+            <marker date="1507622180771" expanded="true" signature="12922:13066" ph="SELECT `full... jet_configuration" />
+            <marker date="1507622180771" expanded="true" signature="13273:13349" ph="SELECT `data... jet_config" />
+            <marker date="1507622180771" expanded="true" signature="13578:13705" ph="SELECT `sku`... jet_dynamic_price" />
+            <marker date="1507622180771" expanded="true" signature="13799:14045" ph="INSERT INTO `jet_dynamic_price`... " />
+            <marker date="1507622180771" expanded="true" signature="14167:14416" ph="UPDATE `jet_... " />
+            <marker date="1507622180771" expanded="true" signature="19369:19436" ph="SELECT `auth... user" />
+            <marker date="1507622180771" expanded="true" signature="19920:20006" ph="SELECT `id` walmart_shop_details" />
+            <marker date="1507622180771" expanded="true" signature="20536:20620" ph="SELECT `id` newegg_shop_detail" />
+            <marker date="1507622180771" expanded="true" signature="21141:21225" ph="SELECT `id` sears_shop_details" />
+            <marker date="1507622180771" expanded="true" signature="22621:22742" ph="SELECT `id` products_listed_on_jet" />
+            <marker date="1507622180771" expanded="true" signature="22884:23089" ph="INSERT INTO `products_listed_on_jet`... " />
+            <marker date="1507622180771" expanded="true" signature="23207:23368" ph="UPDATE `prod... " />
+            <marker date="1507622180771" expanded="true" signature="24502:24656" ph="SELECT `jet_... jet_attribute_map" />
+            <marker date="1507622180771" expanded="true" signature="26354:26415" ph="SELECT `api_... jet_api_schedule" />
+            <marker date="1507622180771" expanded="true" signature="27294:27415" ph="SELECT `data... jet_config" />
+            <marker date="1507622180771" expanded="true" signature="27566:27651" ph="SELECT `data... sears_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/models/JetProductDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/models/JetProductDetailsSearch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/web/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="138" column="20" lean-forward="false" selection-start-line="138" selection-start-column="20" selection-end-line="138" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/referral/models/SubUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <marker date="1506091433000" expanded="true" signature="635:734" ph="SELECT * FRO... referrer_user" />
+            <marker date="1506091433000" expanded="true" signature="2620:2691" ph="SELECT `id` referrer_user" />
+            <marker date="1506091433000" expanded="true" signature="2992:3154" ph="INSERT INTO `referrer_user`... " />
+            <marker date="1506091433000" expanded="true" signature="3703:3835" ph="INSERT INTO `user`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="94" column="59" lean-forward="false" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="59" />
+          <folding>
+            <marker date="1507274848911" expanded="true" signature="1957:2014" ph="SELECT db_na... merchant_db" />
+            <marker date="1507274848911" expanded="true" signature="2191:2248" ph="SELECT db_na... merchant_db" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5745">
+          <caret line="404" column="30" lean-forward="false" selection-start-line="404" selection-start-column="30" selection-end-line="404" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/models/JetProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jetapi/components/Shipment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <marker date="1491802784000" expanded="true" signature="1219:1668" ph="select `jet_... jet_order_detail" />
+            <marker date="1491802784000" expanded="true" signature="3165:3243" ph="SELECT `data... jet_config" />
+            <marker date="1491802784000" expanded="true" signature="8790:8926" ph="UPDATE `jet_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/views/jetreport/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="45" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+          <folding>
+            <element signature="e#7#28#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="84" lean-forward="false" selection-start-line="20" selection-start-column="84" selection-end-line="20" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/JetproductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="68" column="117" lean-forward="false" selection-start-line="68" selection-start-column="95" selection-end-line="68" selection-end-column="117" />
+          <folding>
+            <marker date="1507198536145" expanded="true" signature="1570:1649" ph="SELECT `prod... jet_product_tmp" />
+            <marker date="1507198536145" expanded="true" signature="1972:2080" ph="SELECT `valu... jet_config" />
+            <marker date="1507198536145" expanded="true" signature="2466:2568" ph="SELECT `id` jet_product" />
+            <marker date="1507198536145" expanded="true" signature="4308:4392" ph="SELECT `id`,... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="4815:4905" ph="SELECT `id`,... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="5445:5542" ph="SELECT `valu... jet_config" />
+            <marker date="1507198536145" expanded="true" signature="6724:6821" ph="SELECT `valu... jet_config" />
+            <marker date="1507198536145" expanded="true" signature="8243:8340" ph="SELECT `valu... jet_config" />
+            <marker date="1507198536145" expanded="true" signature="9961:10137" ph="SELECT pro.q... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="12277:12611" ph="SELECT COALE... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="15181:15675" ph="SELECT `jet_... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="19299:19573" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="19391:19531" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="19747:20091" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="19876:20051" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="20296:20660" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="20466:20618" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="20834:21284" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="21067:21242" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="21458:21793" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="21576:21751" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="21975:22339" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="22120:22299" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="22517:22898" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="22681:22858" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="23172:23349" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="23591:23932" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="23713:23890" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="24175:24246" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="31576:31656" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="32433:32751" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="32540:32713" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="33440:33511" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="38816:39181" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="38971:39143" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="39313:39392" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="39899:40256" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="40050:40218" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="40376:40451" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="41010:41346" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="41159:41308" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="41454:41527" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="42212:42292" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="42831:43171" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="42938:43129" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="44644:44748" ph="SELECT `sku`... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="44815:44926" ph="SELECT `opti... jet_product_variants" />
+            <marker date="1507198536145" expanded="true" signature="49054:49134" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="49847:50149" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="49950:50115" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="50786:50857" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="53651:53732" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="54427:54564" ph="SELECT `opti... jet_product_variants" />
+            <marker date="1507198536145" expanded="true" signature="56315:56396" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="59893:59956" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="60513:60625" ph="SELECT `opti... jet_product_variants" />
+            <marker date="1507198536145" expanded="true" signature="61954:62017" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="67680:67818" ph="UPDATE jet_p... " />
+            <marker date="1507198536145" expanded="true" signature="68092:68246" ph="UPDATE jet_p... " />
+            <marker date="1507198536145" expanded="true" signature="69014:69094" ph="SELECT COUNT... jet_product_tmp" />
+            <marker date="1507198536145" expanded="true" signature="71592:71700" ph="SELECT `prod... jet_product_tmp" />
+            <marker date="1507198536145" expanded="true" signature="72103:72305" ph="SELECT id,ti... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="73332:73398" ph="DELETE FROM " />
+            <marker date="1507198536145" expanded="true" signature="78031:78091" ph="SELECT image... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="82163:82320" ph="SELECT `upda... jet_product_details" />
+            <marker date="1507198536145" expanded="true" signature="83631:83752" ph="SELECT `titl... jet_category" />
+            <marker date="1507198536145" expanded="true" signature="84372:84469" ph="SELECT `titl... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="85803:86021" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="94027:95046" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="96254:96333" ph="SELECT `opti... jet_product_variants" />
+            <marker date="1507198536145" expanded="true" signature="96429:97073" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="97710:97829" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="105577:105683" ph="SELECT `opti... jet_product_variants" />
+            <marker date="1507198536145" expanded="true" signature="106014:106299" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="106383:106633" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="106818:106960" ph="SELECT `id`,... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="108559:108622" ph="SELECT `id`,... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="108923:109140" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="109237:109427" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="109577:109711" ph="SELECT `id`,... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="112173:112270" ph="SELECT produ... jet_product_variants" />
+            <marker date="1507198536145" expanded="true" signature="114355:114438" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="115771:115976" ph="select confi... jet_configuration" />
+            <marker date="1507198536145" expanded="true" signature="116249:117808" ph="..." />
+            <marker date="1507198536145" expanded="true" signature="116516:117791" ph="{...}" />
+            <marker date="1507198536145" expanded="true" signature="116578:116637" ph="{...}" />
+            <marker date="1507198536145" expanded="true" signature="116956:117466" ph="{...}" />
+            <marker date="1507198536145" expanded="true" signature="117031:117340" ph="{...}" />
+            <marker date="1507198536145" expanded="true" signature="117076:117153" ph="{...}" />
+            <marker date="1507198536145" expanded="true" signature="117222:117326" ph="{...}" />
+            <marker date="1507198536145" expanded="true" signature="117370:117454" ph="{...}" />
+            <marker date="1507198536145" expanded="true" signature="117935:118085" ph="select jet_p... jet_product" />
+            <marker date="1507198536145" expanded="true" signature="119552:119754" ph="SELECT id,sk... jet_shipping_exception" />
+            <marker date="1507198536145" expanded="true" signature="126916:127032" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="127171:127351" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="127577:127688" ph="SELECT `id` jet_product_details" />
+            <marker date="1507198536145" expanded="true" signature="127780:127923" ph="UPDATE `jet_... " />
+            <marker date="1507198536145" expanded="true" signature="128096:128191" ph="SELECT `id` jet_product" />
+            <marker date="1507198536145" expanded="true" signature="128299:128447" ph="INSERT INTO `jet_product_details`... " />
+            <marker date="1507198536145" expanded="true" signature="128663:128858" ph="UPDATE `jet_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/JetProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="54" column="18" lean-forward="false" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/JetproductslistController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="38" column="36" lean-forward="false" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+          <folding>
+            <marker date="1503643414000" expanded="true" signature="1973:2122" ph="SELECT `sku`... products_listed_on_jet" />
+            <marker date="1503643414000" expanded="true" signature="11402:11492" ph="SELECT repor... jet_product_report" />
+            <marker date="1503643414000" expanded="true" signature="11879:11958" ph="DELETE FROM " />
+            <marker date="1503643414000" expanded="true" signature="14282:14403" ph="SELECT `id` products_listed_on_jet" />
+            <marker date="1503643414000" expanded="true" signature="14593:14733" ph="INSERT INTO `products_listed_on_jet`... " />
+            <marker date="1503643414000" expanded="true" signature="14911:15053" ph="UPDATE `prod... " />
+            <marker date="1503643414000" expanded="true" signature="15938:15979" ph="SELECT `cate... jet_category" />
+            <marker date="1503643414000" expanded="true" signature="17226:17291" ph="UPDATE `jet_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/models/ProductsListedOnJetSearch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/JetmainController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="54" column="72" lean-forward="false" selection-start-line="54" selection-start-column="72" selection-end-line="54" selection-end-column="72" />
+          <folding>
+            <marker date="1507197799085" expanded="true" signature="1567:1709" ph="SELECT `full... jet_configuration" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="302" column="54" lean-forward="false" selection-start-line="302" selection-start-column="54" selection-end-line="302" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/controllers/JetreportController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1367">
+          <caret line="36" column="60" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="60" />
+          <folding>
+            <marker date="1501486665000" expanded="true" signature="1204:1382" ph="SELECT `merc... jet_order_detail" />
+            <marker date="1501486665000" expanded="true" signature="4863:5012" ph="SELECT `sku`... products_listed_on_jet" />
+            <marker date="1501486665000" expanded="true" signature="6811:6917" ph="SELECT `sku`... products_listed_on_jet" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/views/jetproductslist/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1337">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/views/jetproduct/dynamicpricing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/818.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/models/ProductsListedOnJet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/jet/views/jetproduct/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1539">
+          <caret line="520" column="5" lean-forward="true" selection-start-line="520" selection-start-column="5" selection-end-line="520" selection-end-column="5" />
+          <folding>
+            <marker date="1507182925669" expanded="true" signature="10180:10195" ph="..." />
+            <marker date="1507182925669" expanded="true" signature="20741:20757" ph="..." />
+            <marker date="1507182925669" expanded="true" signature="39660:39673" ph="..." />
+            <marker date="1507182925669" expanded="true" signature="39808:39821" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config/main-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
