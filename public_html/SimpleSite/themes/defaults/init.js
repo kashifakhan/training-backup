@@ -1,0 +1,1 @@
+maxt.revision=1504869439;maxt.device="desktop";maxt.pageview=1;maxt.goBounce();maxt.setVisit(); maxt.initCampaigns('[{"id":6061,"name":"Colorlib Main","traffic_source":"exit","type":"overlay","creative_id":8182,"after_seconds_site":20,"after_seconds_page":10,"after_scrolled":0,"cookie_rules":[],"end_seconds":false}]')
